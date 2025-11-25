@@ -1,0 +1,12 @@
+ProduitID,NomProduit,TypeProduit,PrixBase
+P001,Auto Confort,auto,15000
+P002,Habitation Sérénité,habitation,450000
+P003,Santé Essentielle,santé,150
+P004,Auto Premium,auto,25000
+P005,Multirisque Pro,professionnel,1200
+P006,Santé Premium,santé,480
+P007,Habitation Confort,habitation,320000
+P008,Auto Jeunes Conducteurs,auto,9500
+P009,Protection Juridique,familial,180
+P010,Assurance Vie Sérénité,vie,30000
+P011,Multirisque Agricole,professionnel,2500

@@ -1,0 +1,21 @@
+AgenceID,NomAgence,Région,Responsable
+A001,Nogent-sur-Marne,IdF,Claire Dupont
+A002,Lyon Part-Dieu,ARA,Julien Morel
+A003,Marseille Castellane,PACA,Sofia Bernard
+A004,Bordeaux Quinconces,NAQ,Marc Petit
+A005,Toulouse Capitole,OCC,Amélie Roux
+A006,Lille Flandres,HDF,Thomas Leroy
+A007,Rennes République,BRE,Élodie Martin
+A008,Dijon Liberté,BFC,Nicolas Garnier
+A009,Rouen Cathédrale,NOR,Laura Caron
+A010,Orléans Centre,CVL,Antoine Blanc
+A011,Nanterre La Défense,IdF,Stéphanie Laurent
+A012,Grenoble Centre,ARA,Pierre Dubois
+A013,Nice Masséna,PACA,Caroline Robert
+A014,La Rochelle Vieux-Port,NAQ,François Martin
+A015,Montpellier Antigone,OCC,Julie Bernard
+A016,Amiens Cathédrale,HDF,Christophe Leroy
+A017,Brest Liberté,BRE,Valérie Moreau
+A018,Besançon Battant,BFC,Guillaume Petit
+A019,Caen Château,NOR,Isabelle Garnier
+A020,Tours Les Halles,CVL,Alexandre Blanc

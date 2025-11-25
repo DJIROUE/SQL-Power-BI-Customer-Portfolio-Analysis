@@ -1,0 +1,200 @@
+ClientID,Nom,Prénom,DateNaissance,Sexe,Adresse,AgenceID,Profession
+C001,Dupuis,Marie,1985-04-12,F,12 Rue Victor Hugo,A001,Infirmière
+C002,Leroy,Paul,1978-09-30,M,5 Avenue de la République,A002,Ingénieur
+C003,Martin,Claire,1992-11-08,F,8 Rue des Lilas,A003,Professeure
+C004,Petit,Julien,1965-02-17,M,14 Boulevard Gambetta,A004,Comptable
+C005,Roux,Amélie,1989-07-25,F,22 Rue du Général Leclerc,A005,Avocate
+C006,Lambert,Théo,1995-12-03,M,3 Rue de la Liberté,A006,Commercial
+C007,Morel,Sophie,1972-06-19,F,19 Rue de Bretagne,A007,Pharmacienne
+C008,Garcia,Maël,1980-01-28,M,7 Rue de Bourgogne,A008,Artisan
+C009,Caron,Laura,1993-03-15,F,11 Rue Jeanne d’Arc,A009,Consultante
+C010,Blanc,Antoine,1987-10-09,M,6 Rue Royale,A010,Architecte
+C011,Fontaine,Alexis,1999-05-22,M,4 Rue des Écoles,A001,Étudiant
+C012,Lemaire,Manon,1976-08-11,F,9 Rue Anatole France,A002,Cadre RH
+C013,Robert,Quentin,1983-01-05,M,15 Rue de Provence,A003,Technicien
+C014,Perrin,Chloé,1990-09-27,F,10 Rue Saint-Ferréol,A004,Journaliste
+C015,Meyer,Hugo,1968-12-14,M,2 Rue Sainte-Catherine,A005,Retraité
+C016,Colin,Inès,1984-07-02,F,18 Rue de la République,A006,Notaire
+C017,Charles,Léo,1997-11-19,M,20 Rue Nationale,A007,Développeur
+C018,Roussel,Emma,1975-03-08,F,13 Rue de la Liberté,A008,Secrétaire
+C019,Paul,Noah,1981-06-21,M,16 Rue des Carmes,A009,Entrepreneur
+C020,Guerin,Lina,1994-12-30,F,21 Rue des Halles,A010,Designer
+C021,Durand,Éric,1982-05-19,M,27 Rue des Fleurs,A001,Chef de projet
+C022,Renard,Lucie,1977-08-23,F,14 Rue des Tilleuls,A002,Assistante sociale
+C023,Marchand,Victor,1990-03-11,M,8 Rue de la Gare,A003,Consultant IT
+C024,Gaillard,Sarah,1985-12-29,F,15 Rue des Érables,A004,Chargée de communication
+C025,Descamps,Julien,1971-06-07,M,21 Rue des Acacias,A005,Directeur commercial
+C026,Valette,Emma,1994-09-18,F,6 Rue des Peupliers,A006,Styliste
+C027,Chartier,Lucas,1988-02-04,M,18 Rue des Chênes,A007,Juriste
+C028,Teixeira,Anaïs,1975-11-20,F,9 Rue des Pins,A008,Enseignante
+C029,Morin,Alexandre,1992-07-15,M,25 Rue des Vignes,A009,Consultant financier
+C030,Pruvost,Léa,1980-04-03,F,11 Rue des Jardins,A010,Secrétaire médicale
+C031,Dufour,Thomas,1969-01-27,M,7 Rue des Rosiers,A001,Retraité
+C032,Leroy,Éva,1996-08-09,F,14 Rue des Lilas,A002,Étudiante
+C033,Colin,Hugo,1983-05-22,M,19 Rue de la République,A003,Technicien réseau
+C034,Rolland,Clara,1978-10-14,F,22 Rue des Fleurs,A004,Pharmacienne
+C035,Noel,Maxime,1991-02-06,M,5 Rue des Écoles,A005,Ingénieur mécanique
+C036,Hebert,Pauline,1986-07-19,F,16 Rue des Halles,A006,Avocate
+C037,Roy,Antoine,1973-03-25,M,20 Rue des Carmes,A007,Entrepreneur
+C038,Besson,Élodie,1989-09-12,F,13 Rue de la Liberté,A008,Chargée de clientèle
+C039,Michaud,Nicolas,1981-12-03,M,9 Rue de Bourgogne,A009,Architecte
+C040,André,Sophie,1995-08-21,F,17 Rue Jeanne d’Arc,A010,Designer graphique
+C041,Moreau,Isabelle,1982-04-17,F,12 Rue Victor Hugo,A001,Assistante administrative
+C042,Chevalier,David,1979-09-22,M,5 Avenue de la République,A002,Ingénieur civil
+C043,Perrot,Julie,1991-12-03,F,8 Rue des Lilas,A003,Professeure des écoles
+C044,Barbier,Stéphane,1966-02-11,M,14 Boulevard Gambetta,A004,Comptable
+C045,Guillaume,Sandra,1988-07-25,F,22 Rue du Général Leclerc,A005,Avocate
+C046,Lopez,Mathieu,1995-12-03,M,3 Rue de la Liberté,A006,Commercial
+C047,Henry,Claire,1973-06-19,F,19 Rue de Bretagne,A007,Pharmacienne
+C048,Martinez,Lucas,1980-01-28,M,7 Rue de Bourgogne,A008,Artisan
+C049,Renault,Élodie,1993-03-15,F,11 Rue Jeanne d’Arc,A009,Consultante
+C050,Collet,Antoine,1987-10-09,M,6 Rue Royale,A010,Architecte
+C051,Leclercq,Alexis,1999-05-22,M,4 Rue des Écoles,A001,Étudiant
+C052,Rolland,Manon,1976-08-11,F,9 Rue Anatole France,A002,Cadre RH
+C053,Philippe,Quentin,1983-01-05,M,15 Rue de Provence,A003,Technicien
+C054,Arnaud,Chloé,1990-09-27,F,10 Rue Saint-Ferréol,A004,Journaliste
+C055,Blanchard,Hugo,1968-12-14,M,2 Rue Sainte-Catherine,A005,Retraité
+C056,Colin,Inès,1984-07-02,F,18 Rue de la République,A006,Notaire
+C057,Charles,Léo,1997-11-19,M,20 Rue Nationale,A007,Développeur
+C058,Roussel,Emma,1975-03-08,F,13 Rue de la Liberté,A008,Secrétaire
+C059,Paul,Noah,1981-06-21,M,16 Rue des Carmes,A009,Entrepreneur
+C060,Guerin,Lina,1994-12-30,F,21 Rue des Halles,A010,Designer
+C061,Chevalier,Marc,1982-07-14,M,12 Rue Victor Hugo,A001,Ingénieur logiciel
+C062,Perret,Sophie,1979-03-22,F,5 Avenue de la République,A002,Assistante commerciale
+C063,Barbier,Thomas,1991-09-03,M,8 Rue des Lilas,A003,Consultant marketing
+C064,Guillaume,Claire,1967-01-11,F,14 Boulevard Gambetta,A004,Comptable
+C065,Lopez,Julien,1988-06-25,M,22 Rue du Général Leclerc,A005,Avocat
+C066,Henry,Amélie,1995-12-03,F,3 Rue de la Liberté,A006,Chargée de mission
+C067,Martinez,Lucas,1973-05-19,M,19 Rue de Bretagne,A007,Pharmacien
+C068,Renault,Élodie,1980-02-28,F,7 Rue de Bourgogne,A008,Assistante RH
+C069,Collet,Antoine,1993-04-15,M,11 Rue Jeanne d’Arc,A009,Architecte
+C070,Leclercq,Isabelle,1987-09-09,F,6 Rue Royale,A010,Designer
+C071,Rolland,Alexis,1999-05-22,M,4 Rue des Écoles,A001,Étudiant
+C072,Philippe,Manon,1976-08-11,F,9 Rue Anatole France,A002,Cadre supérieur
+C073,Arnaud,Quentin,1983-01-05,M,15 Rue de Provence,A003,Technicien
+C074,Blanchard,Chloé,1990-09-27,F,10 Rue Saint-Ferréol,A004,Journaliste
+C075,Colin,Hugo,1968-12-14,M,2 Rue Sainte-Catherine,A005,Retraité
+C076,Charles,Inès,1984-07-02,F,18 Rue de la République,A006,Notaire
+C077,Roussel,Léo,1997-11-19,M,20 Rue Nationale,A007,Développeur
+C078,Paul,Emma,1975-03-08,F,13 Rue de la Liberté,A008,Secrétaire
+C079,Guerin,Noah,1981-06-21,M,16 Rue des Carmes,A009,Entrepreneur
+C080,Durand,Lina,1994-12-30,F,21 Rue des Halles,A010,Designer graphique
+C081,Chevalier,Luc,1982-07-14,M,12 Rue Victor Hugo,A001,Ingénieur mécanique
+C082,Perret,Claire,1979-03-22,F,5 Avenue de la République,A002,Assistante juridique
+C083,Barbier,Nicolas,1991-09-03,M,8 Rue des Lilas,A003,Consultant digital
+C084,Guillaume,Sophie,1967-01-11,F,14 Boulevard Gambetta,A004,Comptable
+C085,Lopez,David,1988-06-25,M,22 Rue du Général Leclerc,A005,Avocat
+C086,Henry,Élodie,1995-12-03,F,3 Rue de la Liberté,A006,Chargée de communication
+C087,Martinez,Julien,1973-05-19,M,19 Rue de Bretagne,A007,Pharmacien
+C088,Renault,Laura,1980-02-28,F,7 Rue de Bourgogne,A008,Assistante marketing
+C089,Collet,Maxime,1993-04-15,M,11 Rue Jeanne d’Arc,A009,Architecte
+C090,Leclercq,Emma,1987-09-09,F,6 Rue Royale,A010,Designer
+C091,Rolland,Alexandre,1999-05-22,M,4 Rue des Écoles,A001,Étudiant
+C092,Philippe,Manon,1976-08-11,F,9 Rue Anatole France,A002,Cadre supérieur
+C093,Arnaud,Quentin,1983-01-05,M,15 Rue de Provence,A003,Technicien
+C094,Blanchard,Chloé,1990-09-27,F,10 Rue Saint-Ferréol,A004,Journaliste
+C095,Colin,Hugo,1968-12-14,M,2 Rue Sainte-Catherine,A005,Retraité
+C096,Charles,Inès,1984-07-02,F,18 Rue de la République,A006,Notaire
+C097,Roussel,Léo,1997-11-19,M,20 Rue Nationale,A007,Développeur
+C098,Paul,Emma,1975-03-08,F,13 Rue de la Liberté,A008,Secrétaire
+C099,Guerin,Noah,1981-06-21,M,16 Rue des Carmes,A009,Entrepreneur
+C100,Chevalou,Eric,1981-03-14,M,12 Rue Edourd Hugo,A001,Ingénieur application
+C102,Perret,Sophie,1979-03-22,F,5 Avenue de la République,A002,Assistante commerciale
+C103,Barbier,Thomas,1991-09-03,M,8 Rue des Lilas,A003,Consultant marketing
+C104,Guillaume,Claire,1967-01-11,F,14 Boulevard Gambetta,A004,Comptable
+C105,Lopez,Julien,1988-06-25,M,22 Rue du Général Leclerc,A005,Avocat
+C106,Henry,Amélie,1995-12-03,F,3 Rue de la Liberté,A006,Chargée de mission
+C107,Martinez,Lucas,1973-05-19,M,19 Rue de Bretagne,A007,Pharmacien
+C108,Renault,Élodie,1980-02-28,F,7 Rue de Bourgogne,A008,Assistante RH
+C109,Collet,Antoine,1993-04-15,M,11 Rue Jeanne d’Arc,A009,Architecte
+C110,Leclercq,Isabelle,1987-09-09,F,6 Rue Royale,A010,Designer
+C111,Rolland,Alexis,1999-05-22,M,4 Rue des Écoles,A001,Étudiant
+C112,Philippe,Manon,1976-08-11,F,9 Rue Anatole France,A002,Cadre supérieur
+C113,Arnaud,Quentin,1983-01-05,M,15 Rue de Provence,A003,Technicien
+C114,Blanchard,Chloé,1990-09-27,F,10 Rue Saint-Ferréol,A004,Journaliste
+C115,Colin,Hugo,1968-12-14,M,2 Rue Sainte-Catherine,A005,Retraité
+C116,Charles,Inès,1984-07-02,F,18 Rue de la République,A006,Notaire
+C117,Roussel,Léo,1997-11-19,M,20 Rue Nationale,A007,Développeur
+C118,Paul,Emma,1975-03-08,F,13 Rue de la Liberté,A008,Secrétaire
+C119,Guerin,Noah,1981-06-21,M,16 Rue des Carmes,A009,Entrepreneur
+C120,Durand,Lina,1994-12-30,F,21 Rue des Halles,A010,Designer graphique
+C121,Chevalier,Marc,1982-07-14,M,12 Rue Victor Hugo,A001,Ingénieur en bâtiment
+C122,Perret,Sophie,1979-03-22,F,5 Avenue de la République,A002,Assistante de direction
+C123,Barbier,Thomas,1991-09-03,M,8 Rue des Lilas,A003,Consultant en stratégie
+C124,Guillaume,Claire,1967-01-11,F,14 Boulevard Gambetta,A004,Comptable
+C125,Lopez,Julien,1988-06-25,M,22 Rue du Général Leclerc,A005,Avocat
+C126,Henry,Amélie,1995-12-03,F,3 Rue de la Liberté,A006,Chargée de mission
+C127,Martinez,Lucas,1973-05-19,M,19 Rue de Bretagne,A007,Pharmacien
+C128,Renault,Élodie,1980-02-28,F,7 Rue de Bourgogne,A008,Assistante RH
+C129,Collet,Antoine,1993-04-15,M,11 Rue Jeanne d’Arc,A009,Architecte
+C130,Leclercq,Isabelle,1987-09-09,F,6 Rue Royale,A010,Designer
+C131,Rolland,Alexis,1999-05-22,M,4 Rue des Écoles,A001,Étudiant
+C132,Philippe,Manon,1976-08-11,F,9 Rue Anatole France,A002,Cadre supérieur
+C133,Arnaud,Quentin,1983-01-05,M,15 Rue de Provence,A003,Technicien
+C134,Blanchard,Chloé,1990-09-27,F,10 Rue Saint-Ferréol,A004,Journaliste
+C135,Colin,Hugo,1968-12-14,M,2 Rue Sainte-Catherine,A005,Retraité
+C136,Charles,Inès,1984-07-02,F,18 Rue de la République,A006,Notaire
+C137,Roussel,Léo,1997-11-19,M,20 Rue Nationale,A007,Développeur
+C138,Paul,Emma,1975-03-08,F,13 Rue de la Liberté,A008,Secrétaire
+C139,Guerin,Noah,1981-06-21,M,16 Rue des Carmes,A009,Entrepreneur
+C140,Durand,Lina,1994-12-30,F,21 Rue des Halles,A010,Designer graphique
+C141,Moreau,Isabelle,1982-04-17,F,12 Rue Victor Hugo,A001,Assistante administrative
+C142,Chevalier,David,1979-09-22,M,5 Avenue de la République,A002,Ingénieur civil
+C143,Perrot,Julie,1991-12-03,F,8 Rue des Lilas,A003,Professeure des écoles
+C144,Barbier,Stéphane,1966-02-11,M,14 Boulevard Gambetta,A004,Comptable
+C145,Guillaume,Sandra,1988-07-25,F,22 Rue du Général Leclerc,A005,Avocate
+C146,Lopez,Mathieu,1995-12-03,M,3 Rue de la Liberté,A006,Commercial
+C147,Henry,Claire,1973-06-19,F,19 Rue de Bretagne,A007,Pharmacienne
+C148,Martinez,Lucas,1980-01-28,M,7 Rue de Bourgogne,A008,Artisan
+C149,Renault,Élodie,1993-03-15,F,11 Rue Jeanne d’Arc,A009,Consultante
+C150,Collet,Antoine,1987-10-09,M,6 Rue Royale,A010,Architecte
+C151,Leclercq,Alexis,1999-05-22,M,4 Rue des Écoles,A001,Étudiant
+C152,Rolland,Manon,1976-08-11,F,9 Rue Anatole France,A002,Cadre RH
+C153,Philippe,Quentin,1983-01-05,M,15 Rue de Provence,A003,Technicien
+C154,Arnaud,Chloé,1990-09-27,F,10 Rue Saint-Ferréol,A004,Journaliste
+C155,Blanchard,Hugo,1968-12-14,M,2 Rue Sainte-Catherine,A005,Retraité
+C156,Colin,Inès,1984-07-02,F,18 Rue de la République,A006,Notaire
+C157,Charles,Léo,1997-11-19,M,20 Rue Nationale,A007,Développeur
+C158,Roussel,Emma,1975-03-08,F,13 Rue de la Liberté,A008,Secrétaire
+C159,Paul,Noah,1981-06-21,M,16 Rue des Carmes,A009,Entrepreneur
+C160,Guerin,Lina,1994-12-30,F,21 Rue des Halles,A010,Designer
+C161,Morel,Adrien,1982-03-14,M,12 Rue Victor Hugo,A001,Chef de projet
+C162,Chevalier,Laura,1979-07-22,F,5 Avenue de la République,A002,Assistante sociale
+C163,Perrot,Victor,1990-03-11,M,8 Rue des Lilas,A003,Consultant IT
+C164,Barbier,Sarah,1985-12-29,F,15 Rue des Érables,A004,Chargée de communication
+C165,Guillaume,Julien,1971-06-07,M,21 Rue des Acacias,A005,Directeur commercial
+C166,Lopez,Emma,1994-09-18,F,6 Rue des Peupliers,A006,Styliste
+C167,Henry,Lucas,1988-02-04,M,18 Rue des Chênes,A007,Juriste
+C168,Martinez,Anaïs,1975-11-20,F,9 Rue des Pins,A008,Enseignante
+C169,Renault,Alexandre,1992-07-15,M,25 Rue des Vignes,A009,Consultant financier
+C170,Collet,Léa,1980-04-03,F,11 Rue des Jardins,A010,Secrétaire médicale
+C171,Leclercq,Thomas,1969-01-27,M,7 Rue des Rosiers,A001,Retraité
+C172,Rolland,Éva,1996-08-09,F,14 Rue des Lilas,A002,Étudiante
+C173,Philippe,David,1983-05-22,M,19 Rue de la République,A003,Technicien réseau
+C174,Arnaud,Sandra,1978-10-14,F,22 Rue des Fleurs,A004,Pharmacienne
+C175,Blanchard,Maxime,1991-02-06,M,5 Rue des Écoles,A005,Ingénieur mécanique
+C176,Colin,Pauline,1986-07-19,F,16 Rue des Halles,A006,Avocate
+C177,Charles,Antoine,1973-03-25,M,20 Rue des Carmes,A007,Entrepreneur
+C178,Roussel,Élodie,1989-09-12,F,13 Rue de la Liberté,A008,Chargée de clientèle
+C179,Paul,Nicolas,1981-12-03,M,9 Rue de Bourgogne,A009,Architecte
+C180,Guerin,Sophie,1995-08-21,F,17 Rue Jeanne d’Arc,A010,Designer graphique
+C181,Morel,Adrien,1982-03-14,M,12 Rue Victor Hugo,A001,Chef de projet
+C182,Chevalier,Laura,1979-07-22,F,5 Avenue de la République,A002,Assistante sociale
+C183,Perrot,Victor,1990-03-11,M,8 Rue des Lilas,A003,Consultant IT
+C184,Barbier,Sarah,1985-12-29,F,15 Rue des Érables,A004,Chargée de communication
+C185,Guillaume,Julien,1971-06-07,M,21 Rue des Acacias,A005,Directeur commercial
+C186,Lopez,Emma,1994-09-18,F,6 Rue des Peupliers,A006,Styliste
+C187,Henry,Lucas,1988-02-04,M,18 Rue des Chênes,A007,Juriste
+C188,Martinez,Anaïs,1975-11-20,F,9 Rue des Pins,A008,Enseignante
+C189,Renault,Alexandre,1992-07-15,M,25 Rue des Vignes,A009,Consultant financier
+C190,Collet,Léa,1980-04-03,F,11 Rue des Jardins,A010,Secrétaire médicale
+C191,Leclercq,Thomas,1969-01-27,M,7 Rue des Rosiers,A001,Retraité
+C192,Rolland,Éva,1996-08-09,F,14 Rue des Lilas,A002,Étudiante
+C193,Philippe,David,1983-05-22,M,19 Rue de la République,A003,Technicien réseau
+C194,Arnaud,Sandra,1978-10-14,F,22 Rue des Fleurs,A004,Pharmacienne
+C195,Blanchard,Maxime,1991-02-06,M,5 Rue des Écoles,A005,Ingénieur mécanique
+C196,Colin,Pauline,1986-07-19,F,16 Rue des Halles,A006,Avocate
+C197,Charles,Antoine,1973-03-25,M,20 Rue des Carmes,A007,Entrepreneur
+C198,Roussel,Élodie,1989-09-12,F,13 Rue de la Liberté,A008,Chargée de clientèle
+C199,Paul,Nicolas,1981-12-03,M,9 Rue de Bourgogne,A009,Architecte
+C200,Guerin,Sophie,1995-08-21,F,17 Rue Jeanne d’Arc,A010,Designer graphique
