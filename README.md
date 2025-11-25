@@ -53,6 +53,7 @@ Le projet contient plusieurs (7) tables pour refléter la réalité opérationne
 - Repérer les produits avec forte sinistralité ou taux de résiliation élevé  
 - Identifier les clients ou segments à potentiel de vente  
 ---
+![Tableau de bord Power BI] https://github.com/DJIROUE/SQL-Power-BI-Customer-Portfolio-Analysis/blob/main/Performance%20Globale.png?raw=true
 
 ## 3. Questions à résoudre
 1. Évolution du chiffre d’affaires par produit et par agence  
