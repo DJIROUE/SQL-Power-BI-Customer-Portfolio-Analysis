@@ -2,8 +2,10 @@
 
 ## Objectif du projet
 Créer un tableau de bord interactif permettant de suivre l’activité commerciale : volume de contrats, chiffre d’affaires, sinistralité, performances commerciales par produit et par agence.  
+https://github.com/DJIROUE/SQL-Power-BI-Customer-Portfolio-Analysis/blob/main/Performance%20Globale.png?raw=true
+---<img width="1907" height="993" alt="Performance Globale" src="https://github.com/user-attachments/assets/88862d4c-5de0-4bbf-9ce8-27b8a1b8b078" />
+<img width="1901" height="1012" alt="Analyse Client" src="https://github.com/user-attachments/assets/7d43d794-a640-4c40-a295-2c09475fb5b7" />
 
----
 
 ## 1. Bases de données nécessaires
 Le projet contient plusieurs (7) tables pour refléter la réalité opérationnelle :
